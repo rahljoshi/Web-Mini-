@@ -7,11 +7,11 @@
     </tr>
     <tr>
         <td>Expanding Cards</td>
-        <td>Click <a href="https://expandingcards.netlify.app/"></a></td>
+        <td><a href="https://expandingcards.netlify.app/">Click</a></td>
     </tr>
     <tr>
         <td>Progress Steps</td>
-        <td>Click <a href="https://gifted-mirzakhani-5d5343.netlify.app/"></a></td>
+        <td><a href="https://gifted-mirzakhani-5d5343.netlify.app/">Click</a></td>
     </tr>
 </table>
                                
